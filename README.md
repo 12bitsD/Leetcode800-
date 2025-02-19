@@ -17,4 +17,4 @@
 ## 题目解
 题目解释+对应算法/数据结构的简单讲解（讲解的标准将是：能用图片展示，不用文字/尽量用最简，最少的文字表达，尽量不用任何专业术语（如果用了一定解释））
 
--->[题解](https://github.com/12bitsD/Leetcode800-/blob/main/soutionCode)
+-->[题解](solutionGuide.md)
